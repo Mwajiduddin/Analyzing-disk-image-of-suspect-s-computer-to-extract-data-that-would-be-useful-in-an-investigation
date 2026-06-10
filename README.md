@@ -1,0 +1,1 @@
+# Analyzing-disk-image-of-suspect-s-computer-to-extract-data-that-would-be-useful-in-an-investigation
