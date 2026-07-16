@@ -37,4 +37,4 @@ OS Accounts:
 Data Sources > Craig Tucker Desktop.E01_1 Host:
 
 <img src="https://github.com/Mwajiduddin/Analyzing-disk-image-of-suspect-s-computer-to-extract-data-that-would-be-useful-in-an-investigation/blob/main/Screenshot%202026-06-10%20162406.png" />
-For a better understanding of how big this laptop image is, convert bytes to GB to get 64.424GB.
+For a better understanding of how big this laptop image is, convert bytes to gigabytes to get 64.424GB.
